@@ -101,7 +101,3 @@ Program ini akan memunculkan beberapa pop-up grafik secara berurutan:
 └── README.md                # Dokumentasi Proyek
 ```
 
----
-
-## 📜 Lisensi
-Dikembangkan untuk keperluan edukasi dan analisis riset semata. (Ganti bagian ini dengan lisensi proyekmu, misalnya MIT License).
